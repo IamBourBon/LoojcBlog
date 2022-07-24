@@ -260,7 +260,7 @@
 
 
                             <div id="reply">
-                                <h4 class="text-center mb-4 mt-5" id="reply">Reply Comment</h4>
+                                <h4 class="text-center mb-4 mt-5">Reply Comment</h4>
                                 <div class="container py-4">
                                     <div class="row">
                                         <div class="col-lg-12 mx-auto d-flex justify-content-center flex-column">
